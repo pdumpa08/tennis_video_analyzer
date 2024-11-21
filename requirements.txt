@@ -1,3 +1,17 @@
-packaging==24.2
-gunicorn==22.0.0
-wheel @ file:///opt/homebrew/Cellar/python%403.13/3.13.0_1/libexec/wheel-0.44.0-py3-none-any.whl#sha256=f49b82715dce6365f75eddcb0a9bb47d0d46feaf14bbc739dfcbd677b7073f5b
+blinker==1.9.0
+click==8.1.7
+decorator==5.1.1
+Flask==3.1.0
+imageio==2.36.0
+imageio-ffmpeg==0.5.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+moviepy==2.0.0
+numpy==2.1.3
+pillow==10.4.0
+proglog==0.1.10
+python-dotenv==1.0.1
+setuptools==75.6.0
+tqdm==4.67.0
+Werkzeug==3.1.3
