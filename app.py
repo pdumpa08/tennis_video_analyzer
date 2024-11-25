@@ -1,8 +1,10 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
 import os
-from moviepy.editor import VideoFileClip
 import uuid
 from transform_video import process_video
+import sys
+
+print(sys.path)
 
 app = Flask(__name__)
 
