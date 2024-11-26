@@ -4,8 +4,6 @@ import uuid
 from transform_video import process_video
 import sys
 
-print(sys.path)
-
 app = Flask(__name__)
 
 # Folder paths for uploading and serving static files
