@@ -1,1 +1,10 @@
-/my-venv
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+uploads/
+static/uploads/
+static/outputs/
+static/processed_videos/
+static/tracker_stubs/
