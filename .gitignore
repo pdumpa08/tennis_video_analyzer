@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 uploads/
 static/uploads/
-static/outputs/
+static/outputs/*
 static/processed_videos/
 static/tracker_stubs/
+!static/outputs/.gitkeep
